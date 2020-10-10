@@ -1,1 +1,2 @@
 i love javascript
+it is a very good scripting language

@@ -1,1 +1,6 @@
 i love golang
+it is way ahead of :
+Haskell
+Python
+javascript
+Php
